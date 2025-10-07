@@ -4,6 +4,9 @@
 }
 
 /* Body */
+body {
+    
+}
 #main_page {
     background-image: url('./images/sad_woman.jpg');
     background-size: cover;
@@ -328,7 +331,7 @@ li {
 
 .thoughts_div2 {
     background-color:rgba(87, 50, 21,0.5);
- 
+    
     
 }
 
@@ -518,6 +521,9 @@ audio {
     height: 100%;
 }
 
+.note_img_div {
+
+}
 
 .note_img_div::after {
     content: "";
